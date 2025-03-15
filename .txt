@@ -1,0 +1,15 @@
+PS C:\Users\sebas\Documents\Outlier\python\FirstChatbot\SampleChatBotPython> python Chatbot.py
+¡Bienvenido al chat simulado!
+Escribe 'salir' para terminar la conversación.
+
+Tú: hola
+ChatBot: ¡Hola! ¿Cómo estás?
+Tú: bien
+ChatBot: Me alegra saber que estás bien.
+Tú: qué haces
+ChatBot: Estoy aquí, listo para ayudarte en lo que necesites.
+Tú: adios 
+ChatBot: Lo siento, no entendí tu mensaje. ¿Puedes reformularlo?
+Tú: adiós
+ChatBot: ¡Adiós! Que tengas un excelente día.
+Tú:
